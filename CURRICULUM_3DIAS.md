@@ -1,7 +1,7 @@
 # Bootcamp de Programación - Plan de 3 Días (8h/día)
 
 > **Actualización 2025:** los notebooks fueron reorganizados y ampliados con ejercicios nuevos y soluciones desarrolladas.
-Este documento resume una posible reformulación del bootcamp utilizando los notebooks `dia1.ipynb`, `dia2.ipynb` y `dia3.ipynb`. Se propone una agenda intensiva de tres días, dedicando aproximadamente ocho horas diarias entre explicación y práctica.
+Este documento resume una posible reformulación del bootcamp utilizando los notebooks `dia1.ipynb`, `dia2.ipynb` y `dia3.ipynb`. Para repasar los ejercicios también se incluyen las versiones en Markdown `dia1_notas.md`, `dia2_notas.md` y `dia3_notas.md`. Se propone una agenda intensiva de tres días, dedicando aproximadamente ocho horas diarias entre explicación y práctica.
 
 ## Día 1
 
